@@ -1,4 +1,4 @@
-<173쪽 테이블>
+<173쪽 테이블입니다>
 
 create sequence seq_board;
 
